@@ -1,0 +1,14 @@
+Hola, gracias, por la oportunidad :D
+
+Para ejecutar la api es con npm start al igual que el proyecto react,
+la coneccion a la base de datos esta en el archivo bd.js dentro de la 
+api, me parece que nada mas eso deben cambiar,
+
+le borre los node_ modules a ambos archivos, deberan instalarlos con 
+npm i
+
+
+Ya prendido el servidor en el puerto 3000 y el clienete en 9000 solo 
+le dan a crear cuenta desde el login y podran entrar con su cuenta 
+recien creada.
+
